@@ -31,3 +31,19 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## tutorial 
 https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c
 
+## initialize git
+```
+git remote add origin git@github.com/renaa-oxx/___.git
+git remote -v
+
+#### create repo in github
+
+git push --set-upstream origin master
+
+``` 
+## gitflow
+```
+git pull 
+git commit -a -m "..."
+git push
+```
