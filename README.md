@@ -28,8 +28,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## tutorial 
-https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c
 
 ## initialize git
 ```
@@ -47,3 +45,12 @@ git pull
 git commit -a -m "..."
 git push
 ```
+
+## tutorial 
+https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c
+
+
+
+## also worth checking out
+https://router.vuejs.org/guide/essentials/navigation.html
+
